@@ -1,6 +1,6 @@
 
   greeting = "Hello world"
-puts "Hello world"#{gretting}
+puts #{gretting}
 
 
 
