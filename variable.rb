@@ -1,5 +1,5 @@
 
-  greeting = "hello world!"
+  greeting = "Hello world!"
 puts greeting
 
 
