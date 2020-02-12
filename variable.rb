@@ -1,6 +1,6 @@
 
-  Greeting = "hello world!"
-puts Greeting
+  greeting = "hello world!"
+puts greeting
 
 
 
