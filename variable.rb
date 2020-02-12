@@ -1,6 +1,6 @@
 
-  greeting = "Hello world"
-puts {greeting}
+  greeting = "Hello World"
+puts {greeting}.={"Hello_World"}
 
 
 
