@@ -1,3 +1,8 @@
-greeting = "hello world"
+
+  Greeting = "hello world!"
+puts Greeting
+
+
+
  # Define a local variable called 'greeting',
  # give it the value of the string "Hello World"
